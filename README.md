@@ -2,16 +2,16 @@
 (17) 99706-6179 <br>
 00001113800732sp@al.educacao.sp.gov.br </b>
 
+<hr>
 
-
-OBJETIVO <br>
+<b>OBJETIVO </b> <br>
 Planejo atuar na área de computação meu objetivo é ter uma boa vida profissional e ter uma boa convicencia com a equipe que trabalho
 
 
-FORMAÇÃO ACADÊMICA
+<b>FORMAÇÃO ACADÊMICA </b>
 Maria Cardozo Castilho - cursando
 . 
 <hr>
-TECNOLOGIAS <br>
+<b>TECNOLOGIAS </b> <br>
 Java-p5  <br>
 Html
